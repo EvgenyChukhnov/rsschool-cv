@@ -1,6 +1,6 @@
 # Evgeny Chukhnov
 
-![Avatar alt-text](./avatar.jpg#avatar)
+![Avatar alt-text](./avatar.jpg#avatar1)
 
 Address: | Minsk, Belarus
 tel: | +375 44 554 04 33	
@@ -44,5 +44,3 @@ Marital Status: | Single
 
 ## Interests:
 * Computers, sports, music, philosophy, foreign languages
-
-## 
