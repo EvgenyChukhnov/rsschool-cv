@@ -1,6 +1,6 @@
 # Evgeny Chukhnov
 
-![Avatar alt-text](./avatar.jpg#avatar1)
+![Avatar alt-text](./avatar2.jpg)
 
 Address: | Minsk, Belarus
 tel: | +375 44 554 04 33	
