@@ -64,3 +64,18 @@ main {
 .contacts-list span {
   display: block;
 }
+
+.myproject span {
+  display: block;
+}
+
+.myproject a {
+  text-decoration: none;
+}
+
+.copyright {
+  margin-top: 20px;
+  font-size: 1rem;
+  font-style: italic;
+
+}
