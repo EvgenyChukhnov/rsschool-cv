@@ -43,3 +43,17 @@ body {
 main {
   margin-bottom: 20px;
 }
+
+.parent{
+  border: 1px solid green;
+  width: 500px;
+  height: 400px;
+  font-size: 24px;
+}
+
+.child {
+  width: 200px;
+  height: 200px;
+  font-size: 0.75em;
+  border: 1px solid yellow;
+}
