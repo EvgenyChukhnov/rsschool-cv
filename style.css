@@ -1,7 +1,6 @@
 body {
   background-color: rgb(250, 250, 251);
   font-family: 'Mada', sans-serif;
-  /* font-weight: 500; */
   font-size: 1.2rem;
 }
 
@@ -13,7 +12,6 @@ body {
 
 .header_img {
   float: right;
-  width: 200px;
   text-align: right;
   margin-right: 30px;
   margin-top: 35px;
@@ -42,4 +40,27 @@ body {
 
 main {
   margin-bottom: 20px;
+}
+
+.contacts-list {
+  display: flex;
+  max-width: 700px;
+  flex-direction: column;
+}
+
+.contacts-list li {
+  list-style: none;
+}
+
+.contacts-list li span:first-child {
+  font-weight: bold;
+}
+
+.contacts-list li span:nth-child(2) {
+  font-style: italic;
+  padding-left: 20px;
+}
+
+.contacts-list span {
+  display: block;
 }
