@@ -65,6 +65,25 @@ main {
   display: block;
 }
 
+.expirience li {
+  margin-bottom: 10px;
+}
+
+.serts {
+  display: inline-block;
+  padding: 2px 10px;
+  margin-top: 10px;
+  list-style: none;
+  font-size: 1.5rem;
+  /* font-weight: bold; */
+  font-style: italic;
+  color: rgb(68, 68, 68);
+  border: 1px solid rgb(68, 68, 68);
+  border-radius: 5px;
+  width: auto;
+  cursor: pointer;
+}
+
 .myproject span {
   display: block;
 }
@@ -77,5 +96,4 @@ main {
   margin-top: 20px;
   font-size: 1rem;
   font-style: italic;
-
 }
