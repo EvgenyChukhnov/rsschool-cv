@@ -52,17 +52,23 @@ main {
   list-style: none;
 }
 
+.address {
+  display: flex;
+}
+
 .contacts-list li span:first-child {
+  display: inline-block;
+  width: 125px;
   font-weight: bold;
 }
 
 .contacts-list li span:nth-child(2) {
   font-style: italic;
-  padding-left: 20px;
+  padding-left: 10px;
 }
 
 .contacts-list span {
-  display: block;
+  /* display: block; */
 }
 
 .experience li {
